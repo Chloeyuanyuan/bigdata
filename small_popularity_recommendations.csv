@@ -1,0 +1,101 @@
+,movieId,weighted_rating,title,genres
+0,296,4.404411539088848,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+1,318,4.381418767429533,"Shawshank Redemption, The (1994)",Crime|Drama
+2,71899,4.35067343711853,Mary and Max (2009),Animation|Comedy|Drama
+3,2959,4.33555431788778,Fight Club (1999),Action|Crime|Drama|Thriller
+4,7361,4.29192169744577,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+5,3676,4.28725037574768,Eraserhead (1977),Drama|Horror
+6,260,4.259021987085757,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+7,1104,4.2558753252029415,"Streetcar Named Desire, A (1951)",Drama
+8,1203,4.2426442458079405,12 Angry Men (1957),Drama
+9,3266,4.241167259216309,Man Bites Dog (C'est arrivé près de chez vous) (1992),Comedy|Crime|Drama|Thriller
+10,1252,4.23806608847852,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+11,50,4.235127101510257,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+12,56782,4.232905684290706,There Will Be Blood (2007),Drama|Western
+13,4144,4.231928770882743,In the Mood For Love (Fa yeung nin wa) (2000),Drama|Romance
+14,48516,4.229973280683477,"Departed, The (2006)",Crime|Drama|Thriller
+15,1197,4.221261728794203,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance
+16,1196,4.214143182454484,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+17,858,4.21219819664155,"Godfather, The (1972)",Crime|Drama
+18,68157,4.2120723410656575,Inglourious Basterds (2009),Action|Drama|War
+19,3147,4.211763176165129,"Green Mile, The (1999)",Crime|Drama
+20,1199,4.208186430089614,Brazil (1985),Fantasy|Sci-Fi
+21,176371,4.2080559730529785,Blade Runner 2049 (2017),Sci-Fi
+22,58559,4.203187039790263,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX
+23,1276,4.200302017146144,Cool Hand Luke (1967),Drama
+24,1250,4.197988172856773,"Bridge on the River Kwai, The (1957)",Adventure|Drama|War
+25,2571,4.197303103076087,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+26,750,4.196554922476048,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War
+27,1221,4.194504679373975,"Godfather: Part II, The (1974)",Crime|Drama
+28,1136,4.193738386171673,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy
+29,104879,4.193707170157597,Prisoners (2013),Drama|Mystery|Thriller
+30,1208,4.188835312019695,Apocalypse Now (1979),Action|Drama|War
+31,1732,4.188629659322592,"Big Lebowski, The (1998)",Comedy|Crime
+32,527,4.18780731755262,Schindler's List (1993),Drama|War
+33,922,4.182768191610064,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance
+34,1198,4.182247204439981,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+35,2329,4.179620661905834,American History X (1998),Crime|Drama
+36,6818,4.176458954811096,Come and See (Idi i smotri) (1985),Drama|War
+37,593,4.175954097195676,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+38,912,4.174017752919879,Casablanca (1942),Drama|Romance
+39,3275,4.1575595651354105,"Boondock Saints, The (2000)",Action|Crime|Drama|Thriller
+40,356,4.154276543921166,Forrest Gump (1994),Comedy|Drama|Romance|War
+41,3435,4.153970970826991,Double Indemnity (1944),Crime|Drama|Film-Noir
+42,475,4.1539167881011965,In the Name of the Father (1993),Drama
+43,1210,4.15222712430087,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+44,953,4.149362956776338,It's a Wonderful Life (1946),Children|Drama|Fantasy|Romance
+45,57669,4.147055784861247,In Bruges (2008),Comedy|Crime|Drama|Thriller
+46,1213,4.14261804886584,Goodfellas (1990),Crime|Drama
+47,1272,4.14198295001326,Patton (1970),Drama|War
+48,904,4.140520751476288,Rear Window (1954),Mystery|Thriller
+49,7153,4.140481255809713,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+50,2028,4.137691218382234,Saving Private Ryan (1998),Action|Drama|War
+51,1225,4.133576532204946,Amadeus (1984),Drama
+52,1178,4.132344156503677,Paths of Glory (1957),Drama|War
+53,4973,4.127354395042345,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance
+54,908,4.127259868841905,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller
+55,1089,4.12710892221202,Reservoir Dogs (1992),Crime|Mystery|Thriller
+56,1212,4.124700317382812,"Third Man, The (1949)",Film-Noir|Mystery|Thriller
+57,177593,4.124423577235295,"Three Billboards Outside Ebbing, Missouri (2017)",Crime|Drama
+58,4011,4.121740389473831,Snatch (2000),Comedy|Crime|Thriller
+59,5618,4.121156614218185,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy
+60,293,4.118105690926313,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
+61,1193,4.11540260557401,One Flew Over the Cuckoo's Nest (1975),Drama
+62,7022,4.114375392595927,Battle Royale (Batoru rowaiaru) (2000),Action|Drama|Horror|Thriller
+63,4226,4.113044232738261,Memento (2000),Mystery|Thriller
+64,541,4.110159262743863,Blade Runner (1982),Action|Sci-Fi|Thriller
+65,4993,4.105844139293501,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+66,2160,4.10335739680699,Rosemary's Baby (1968),Drama|Horror|Thriller
+67,1228,4.097770278518264,Raging Bull (1980),Drama
+68,3451,4.095147497513715,Guess Who's Coming to Dinner (1967),Drama
+69,898,4.093482375144959,"Philadelphia Story, The (1940)",Comedy|Drama|Romance
+70,1262,4.090437662601471,"Great Escape, The (1963)",Action|Adventure|Drama|War
+71,1267,4.090258729868922,"Manchurian Candidate, The (1962)",Crime|Thriller|War
+72,1209,4.089861631393433,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western
+73,3083,4.088229596614838,All About My Mother (Todo sobre mi madre) (1999),Drama
+74,3681,4.084435909025131,For a Few Dollars More (Per qualche dollaro in più) (1965),Action|Drama|Thriller|Western
+75,1201,4.083893424174825,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western
+76,80906,4.080875325202942,Inside Job (2010),Documentary
+77,1248,4.080875325202942,Touch of Evil (1958),Crime|Film-Noir|Thriller
+78,89904,4.079821961266654,The Artist (2011),Comedy|Drama|Romance
+79,27773,4.07864146647246,Old Boy (2003),Mystery|Thriller
+80,1617,4.077852855009192,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+81,2288,4.076985569561229,"Thing, The (1982)",Action|Horror|Sci-Fi|Thriller
+82,1204,4.074785804748536,Lawrence of Arabia (1962),Adventure|Drama|War
+83,158872,4.074500370025636,Sausage Party (2016),Animation|Comedy
+84,913,4.074226549693516,"Maltese Falcon, The (1941)",Film-Noir|Mystery
+85,6016,4.0741667125536045,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller
+86,1235,4.073523066260598,Harold and Maude (1971),Comedy|Drama|Romance
+87,215,4.073523066260598,Before Sunrise (1995),Drama|Romance
+88,608,4.069297904837621,Fargo (1996),Comedy|Crime|Drama|Thriller
+89,111,4.067972326278687,Taxi Driver (1976),Crime|Drama|Thriller
+90,1242,4.067115416893592,Glory (1989),Drama|War
+91,951,4.065735760857077,His Girl Friday (1940),Comedy|Romance
+92,74458,4.065357208251953,Shutter Island (2010),Drama|Mystery|Thriller
+93,899,4.059488654136658,Singin' in the Rain (1952),Comedy|Musical|Romance
+94,60069,4.058821974129512,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi
+95,306,4.058816207082648,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama
+96,1148,4.052350339889527,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime
+97,1283,4.050795793533325,High Noon (1952),Drama|Western
+98,1278,4.048472219043308,Young Frankenstein (1974),Comedy|Fantasy
+99,1233,4.0475739170523255,"Boot, Das (Boat, The) (1981)",Action|Drama|War
